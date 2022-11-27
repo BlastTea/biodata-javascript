@@ -1,7 +1,6 @@
-# Biodata JavaScript
-## 3 JavaScript
+# Biodata 3 JavaScript
 ## Ketua Kelompok
-Nama&nbsp;: Cyatria Wichaksana Ristanto
+Nama&nbsp;: Cyatria Wichaksana Ristanto  
 NIM&nbsp;&nbsp;: 222410103054  
 Alamat&nbsp;: Jl. Bangka 3 No. 11, Sumbersari, Jember
 ## Anggota 1
