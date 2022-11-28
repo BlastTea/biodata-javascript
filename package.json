@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "jquery": "^3.6.1"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.14"
+  },
+  "name": "biodata-javascript",
+  "description": "Nama&nbsp;: Cyatria Wichaksana Ristanto  \r NIM&nbsp;&nbsp;: 222410103054  \r Alamat&nbsp;: Jl. Bangka 3 No. 11, Sumbersari, Jember\r ## Anggota 1\r Nama&nbsp;: Intan Lailatul Ilmiana  \r NIM&nbsp;&nbsp;: 222410103087  \r Alamat&nbsp;: Jalan Danau Toba Gang 2\r ## Anggota 2\r Nama&nbsp;: Sukma Suciyana  \r NIM&nbsp;&nbsp;: 222410103021  \r Alamat&nbsp;: Jalan Mastrip No. 82\r ## Anggota 3\r Nama&nbsp;: Mahisa Putra Surya  \r NIM&nbsp;&nbsp;: 222410103075  \r Alamat&nbsp;: Perum Green Tegal Gede Residence Blok JJ 21-22\r ## Anggota 4\r Nama&nbsp;: Yesi Kho Sutrisno  \r NIM&nbsp;&nbsp;: 222410103007  \r Alamat&nbsp;: Jl. Kalimantan No. 49B\r ## Anggota 5\r Nama&nbsp;: Hamimul Rais  \r NIM&nbsp;&nbsp;: 222410103046  \r Alamat&nbsp;: Jalan VI Sumbersari, Jember\r ## Anggota 6\r Nama&nbsp;: Dewi Anjani  \r NIM&nbsp;:222410103001  \r Alamat&nbsp;: Jl. Kalimantan No. 49B",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlastTea/biodata-javascript.git"
+  },
+  "keywords": [
+    "biodata-javascript"
+  ],
+  "author": "BlastTea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlastTea/biodata-javascript/issues"
+  },
+  "homepage": "https://github.com/BlastTea/biodata-javascript#readme"
+}
