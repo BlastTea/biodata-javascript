@@ -1,16 +1,20 @@
-hello = 'https://blasttea.jetbrains.space/oauth/auth/invite/4a01c6d7e28b06b12bc8cdf15475969b'
+var trans = $(".transition");
+for (var i = 0; i < trans.length; i++) {
+  $(trans[i]).addClass("visible");
+}
 
 $(document).on("scroll", function() {
     var pageTop = $(document).scrollTop();
     var pageBottom = pageTop + $(window).height();
-    var tags = $(".transcroll");
+    var transcrolls = $(".transcroll");
   
-    for (var i = 0; i < tags.length; i++) {
-      var tag = tags[i];
-      if ($(tag).position().top < pageBottom) {
-        $(tag).addClass("visible");
-      } else {
-        $(tag).removeClass("visible");
-      }
+    for (var i = 0; i < transcrolls.length; i++) {
+      var transcroll = transcrolls[i];
+      if ($(transcroll).position().top < pageBottom) {
+        $(transcroll).addClass("visible");
+      } 
+      // else {
+      //   $(transcroll).removeClass("visible");
+      // }
     }
   });
